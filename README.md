@@ -1,5 +1,8 @@
 # Assignment 2 - Convolution Neural Network
 
+### Report Link :
+https://wandb.ai/dl_45_47/Convolution_Neural_Network_modules/reports/Assignment-Two--Vmlldzo2MTA3OTA
+
 ### Files :
 * **DLA2PartA.ipynb** - Trained CNN model from scratch executable code with Sweep functionality
 * **TestAccuracyA2PartA.ipynb** - Using Trained CNN model to find accuracy on test dataset
